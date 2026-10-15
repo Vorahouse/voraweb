@@ -1,0 +1,507 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/es/",
+      "destination": "/Vora-House.dc.html"
+    },
+    {
+      "source": "/es",
+      "destination": "/Vora-House.dc.html"
+    },
+    {
+      "source": "/",
+      "destination": "/Vora-House-EN.dc.html"
+    },
+    {
+      "source": "/ca/",
+      "destination": "/Vora-House-CA.dc.html"
+    },
+    {
+      "source": "/ca",
+      "destination": "/Vora-House-CA.dc.html"
+    },
+    {
+      "source": "/es/productos",
+      "destination": "/Productos.dc.html"
+    },
+    {
+      "source": "/products",
+      "destination": "/Productos-EN.dc.html"
+    },
+    {
+      "source": "/ca/productes",
+      "destination": "/Productos-CA.dc.html"
+    },
+    {
+      "source": "/es/servicios",
+      "destination": "/Servicios.dc.html"
+    },
+    {
+      "source": "/services",
+      "destination": "/Servicios-EN.dc.html"
+    },
+    {
+      "source": "/ca/serveis",
+      "destination": "/Servicios-CA.dc.html"
+    },
+    {
+      "source": "/es/nosotros",
+      "destination": "/Nosotros.dc.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/Nosotros-EN.dc.html"
+    },
+    {
+      "source": "/ca/nosaltres",
+      "destination": "/Nosotros-CA.dc.html"
+    },
+    {
+      "source": "/es/contacto",
+      "destination": "/Contacto.dc.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/Contacto-EN.dc.html"
+    },
+    {
+      "source": "/ca/contacte",
+      "destination": "/Contacto-CA.dc.html"
+    },
+    {
+      "source": "/es/productos/terra",
+      "destination": "/Producto-Terra.dc.html"
+    },
+    {
+      "source": "/products/terra",
+      "destination": "/Producto-Terra-EN.dc.html"
+    },
+    {
+      "source": "/ca/productes/terra",
+      "destination": "/Producto-Terra-CA.dc.html"
+    },
+    {
+      "source": "/es/productos/mar",
+      "destination": "/Producto-Mar.dc.html"
+    },
+    {
+      "source": "/products/mar",
+      "destination": "/Producto-Mar-EN.dc.html"
+    },
+    {
+      "source": "/ca/productes/mar",
+      "destination": "/Producto-Mar-CA.dc.html"
+    },
+    {
+      "source": "/es/productos/voira",
+      "destination": "/Producto-Voira.dc.html"
+    },
+    {
+      "source": "/products/voira",
+      "destination": "/Producto-Voira-EN.dc.html"
+    },
+    {
+      "source": "/ca/productes/voira",
+      "destination": "/Producto-Voira-CA.dc.html"
+    },
+    {
+      "source": "/es/productos/brisa",
+      "destination": "/Producto-Brisa.dc.html"
+    },
+    {
+      "source": "/products/brisa",
+      "destination": "/Producto-Brisa-EN.dc.html"
+    },
+    {
+      "source": "/ca/productes/brisa",
+      "destination": "/Producto-Brisa-CA.dc.html"
+    },
+    {
+      "source": "/es/aviso-legal",
+      "destination": "/Aviso-Legal.dc.html"
+    },
+    {
+      "source": "/legal-notice",
+      "destination": "/Aviso-Legal-EN.dc.html"
+    },
+    {
+      "source": "/ca/avis-legal",
+      "destination": "/Aviso-Legal-CA.dc.html"
+    },
+    {
+      "source": "/es/politica-de-privacidad",
+      "destination": "/Politica-de-Privacidad.dc.html"
+    },
+    {
+      "source": "/privacy-policy",
+      "destination": "/Politica-de-Privacidad-EN.dc.html"
+    },
+    {
+      "source": "/ca/politica-de-privacitat",
+      "destination": "/Politica-de-Privacidad-CA.dc.html"
+    },
+    {
+      "source": "/es/politica-de-cookies",
+      "destination": "/Politica-de-Cookies.dc.html"
+    },
+    {
+      "source": "/cookie-policy",
+      "destination": "/Politica-de-Cookies-EN.dc.html"
+    },
+    {
+      "source": "/ca/politica-de-galetes",
+      "destination": "/Politica-de-Cookies-CA.dc.html"
+    },
+    {
+      "source": "/es/devoluciones-y-garantia",
+      "destination": "/Devoluciones-y-Garantia.dc.html"
+    },
+    {
+      "source": "/returns-warranty",
+      "destination": "/Devoluciones-y-Garantia-EN.dc.html"
+    },
+    {
+      "source": "/ca/devolucions-i-garantia",
+      "destination": "/Devoluciones-y-Garantia-CA.dc.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/Vora-House.dc.html",
+      "destination": "/es/",
+      "permanent": true
+    },
+    {
+      "source": "/Vora-House-EN.dc.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Vora-House-CA.dc.html",
+      "destination": "/ca/",
+      "permanent": true
+    },
+    {
+      "source": "/Productos.dc.html",
+      "destination": "/es/productos",
+      "permanent": true
+    },
+    {
+      "source": "/Productos-EN.dc.html",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/Productos-CA.dc.html",
+      "destination": "/ca/productes",
+      "permanent": true
+    },
+    {
+      "source": "/Servicios.dc.html",
+      "destination": "/es/servicios",
+      "permanent": true
+    },
+    {
+      "source": "/Servicios-EN.dc.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/Servicios-CA.dc.html",
+      "destination": "/ca/serveis",
+      "permanent": true
+    },
+    {
+      "source": "/Nosotros.dc.html",
+      "destination": "/es/nosotros",
+      "permanent": true
+    },
+    {
+      "source": "/Nosotros-EN.dc.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/Nosotros-CA.dc.html",
+      "destination": "/ca/nosaltres",
+      "permanent": true
+    },
+    {
+      "source": "/Contacto.dc.html",
+      "destination": "/es/contacto",
+      "permanent": true
+    },
+    {
+      "source": "/Contacto-EN.dc.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/Contacto-CA.dc.html",
+      "destination": "/ca/contacte",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Terra.dc.html",
+      "destination": "/es/productos/terra",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Terra-EN.dc.html",
+      "destination": "/products/terra",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Terra-CA.dc.html",
+      "destination": "/ca/productes/terra",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Mar.dc.html",
+      "destination": "/es/productos/mar",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Mar-EN.dc.html",
+      "destination": "/products/mar",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Mar-CA.dc.html",
+      "destination": "/ca/productes/mar",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Voira.dc.html",
+      "destination": "/es/productos/voira",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Voira-EN.dc.html",
+      "destination": "/products/voira",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Voira-CA.dc.html",
+      "destination": "/ca/productes/voira",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Brisa.dc.html",
+      "destination": "/es/productos/brisa",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Brisa-EN.dc.html",
+      "destination": "/products/brisa",
+      "permanent": true
+    },
+    {
+      "source": "/Producto-Brisa-CA.dc.html",
+      "destination": "/ca/productes/brisa",
+      "permanent": true
+    },
+    {
+      "source": "/Aviso-Legal.dc.html",
+      "destination": "/es/aviso-legal",
+      "permanent": true
+    },
+    {
+      "source": "/Aviso-Legal-EN.dc.html",
+      "destination": "/legal-notice",
+      "permanent": true
+    },
+    {
+      "source": "/Aviso-Legal-CA.dc.html",
+      "destination": "/ca/avis-legal",
+      "permanent": true
+    },
+    {
+      "source": "/Politica-de-Privacidad.dc.html",
+      "destination": "/es/politica-de-privacidad",
+      "permanent": true
+    },
+    {
+      "source": "/Politica-de-Privacidad-EN.dc.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/Politica-de-Privacidad-CA.dc.html",
+      "destination": "/ca/politica-de-privacitat",
+      "permanent": true
+    },
+    {
+      "source": "/Politica-de-Cookies.dc.html",
+      "destination": "/es/politica-de-cookies",
+      "permanent": true
+    },
+    {
+      "source": "/Politica-de-Cookies-EN.dc.html",
+      "destination": "/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/Politica-de-Cookies-CA.dc.html",
+      "destination": "/ca/politica-de-galetes",
+      "permanent": true
+    },
+    {
+      "source": "/Devoluciones-y-Garantia.dc.html",
+      "destination": "/es/devoluciones-y-garantia",
+      "permanent": true
+    },
+    {
+      "source": "/Devoluciones-y-Garantia-EN.dc.html",
+      "destination": "/returns-warranty",
+      "permanent": true
+    },
+    {
+      "source": "/Devoluciones-y-Garantia-CA.dc.html",
+      "destination": "/ca/devolucions-i-garantia",
+      "permanent": true
+    },
+    {
+      "source": "/en",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/productos",
+      "destination": "/es/productos",
+      "permanent": true
+    },
+    {
+      "source": "/en/products",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/servicios",
+      "destination": "/es/servicios",
+      "permanent": true
+    },
+    {
+      "source": "/en/services",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/nosotros",
+      "destination": "/es/nosotros",
+      "permanent": true
+    },
+    {
+      "source": "/en/about",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/contacto",
+      "destination": "/es/contacto",
+      "permanent": true
+    },
+    {
+      "source": "/en/contact",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/productos/terra",
+      "destination": "/es/productos/terra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/terra",
+      "destination": "/products/terra",
+      "permanent": true
+    },
+    {
+      "source": "/productos/mar",
+      "destination": "/es/productos/mar",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/mar",
+      "destination": "/products/mar",
+      "permanent": true
+    },
+    {
+      "source": "/productos/voira",
+      "destination": "/es/productos/voira",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/voira",
+      "destination": "/products/voira",
+      "permanent": true
+    },
+    {
+      "source": "/productos/brisa",
+      "destination": "/es/productos/brisa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/brisa",
+      "destination": "/products/brisa",
+      "permanent": true
+    },
+    {
+      "source": "/aviso-legal",
+      "destination": "/es/aviso-legal",
+      "permanent": true
+    },
+    {
+      "source": "/en/legal-notice",
+      "destination": "/legal-notice",
+      "permanent": true
+    },
+    {
+      "source": "/politica-de-privacidad",
+      "destination": "/es/politica-de-privacidad",
+      "permanent": true
+    },
+    {
+      "source": "/en/privacy-policy",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/politica-de-cookies",
+      "destination": "/es/politica-de-cookies",
+      "permanent": true
+    },
+    {
+      "source": "/en/cookie-policy",
+      "destination": "/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/devoluciones-y-garantia",
+      "destination": "/es/devoluciones-y-garantia",
+      "permanent": true
+    },
+    {
+      "source": "/en/returns-warranty",
+      "destination": "/returns-warranty",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
